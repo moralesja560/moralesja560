@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @moralesja560, i'm 29 years old and i'm starting to learn about the programming world through the development of some simple apps. I hold an MBA from Tecnológico de Monterrey in México and I currently work as a Control and Automation Engineer. 
-- 👀 I’m interested in switching careers. My goal is to work as a Full Stack Developer, Artificial Intelligence Engineer, Data Scientist or Data Analyst.
-- 🌱 I’m currently learning Python, TensorFlow, OpenCV and SQL. I want to learn next Tableau and R to deploy data science models.
+- 👋 Hi, I’m @moralesja560, i'm 31 years old and i have developed some apps with YOLOv7 and pyads. I hold an MBA from Tecnológico de Monterrey in México and I currently work as a Senior Automation Engineer. 
+- 👀 I’m currently in line to be promoted to Management.
+- 🌱 I’m currently learning Python, TensorFlow, OpenCV and SQL. I want to learn how to deploy AI applications that add competitive value to my company.
 - 💞️ I’m looking to collaborate on some easy projects related to PLC/OPC/IoT Automation in an industrial environment.
 - 📫 How to reach me: send an email to rockernault@gmail.com.
 
